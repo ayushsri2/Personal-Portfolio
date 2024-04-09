@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Personal Potfolio",
+    "imageSrc": "projects/project.png",
+    "description": "This project showcase my skills in web development journey alongside providing insights into my background.",
+    "skills": ["React", "Javascript", "CSS"],
+    "demo": "https://ayushsrivastavaweb.netlify.app/",
+    "source": "https://github.com/ayushsri2/Personal-Portfolio"
+  },
+  {
+    "title": "Airbnb Clone",
+    "imageSrc": "projects/project.png",
+    "description": "Project built using the latest technologies in web development to create an immersive platform for lodging and stays.",
+    "skills": ["React", "Javascript", "CSS", "Firebase"],
+    "demo": "https://ayushsri2.github.io/Airbnb-Clone/",
+    "source": "https://github.com/ayushsri2/Airbnb-Clone"
+  },
+  {
+    "title": "IMDB Clone",
+    "imageSrc": "projects/project.png",
+    "description": "An endeavor to recreate the renowned IMDB platform using modern web development technologies.",
+    "skills": ["React", "Javascript", "CSS", "Firebase"],
+    "demo": "https://ayushsri2.github.io/IMDB-Clone/",
+    "source": "https://github.com/ayushsri2/IMDB-Clone"
+  }
+]

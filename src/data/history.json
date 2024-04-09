@@ -1,0 +1,16 @@
+[
+  {
+    "role": "Cloud Engineer",
+    "organisation": "Hanu Software",
+    "startDate": "Sept, 2021",
+    "endDate": "Oct, 2022",
+    "experiences": ["Worked on Kloud On Application", "Reduced load time by 30%"]
+  },
+  {
+    "role": "Software Engineer",
+    "organisation": "Saxon Ai",
+    "startDate": "Oct, 2022",
+    "endDate": "Present",
+    "experiences": ["Contributed to enhancing functionality", "Applied frontend best practices"]
+  }
+]
