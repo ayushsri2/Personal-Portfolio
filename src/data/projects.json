@@ -1,11 +1,11 @@
 [
   {
-    "title": "Personal Potfolio",
+    "title": "Pizza Delivery App",
     "imageSrc": "projects/project.png",
-    "description": "This project showcase my skills in web development journey alongside providing insights into my background.",
+    "description": "The Pizza Delivery App exemplifies my proficiency in web development, offering a glimpse into my journey and skills",
     "skills": ["React", "Javascript", "CSS"],
-    "demo": "https://ayushsrivastavaweb.netlify.app/",
-    "source": "https://github.com/ayushsri2/Personal-Portfolio"
+    "demo": "https://ayushsri2.github.io/Pizza-Delivery/",
+    "source": "https://github.com/ayushsri2/Pizza-Delivery"
   },
   {
     "title": "Airbnb Clone",
