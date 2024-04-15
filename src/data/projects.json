@@ -8,19 +8,19 @@
     "source": "https://github.com/ayushsri2/Pizza-Delivery"
   },
   {
-    "title": "Airbnb Clone",
+    "title": "Personal Portfolio",
     "imageSrc": "projects/project.png",
-    "description": "Project built using the latest technologies in web development to create an immersive platform for lodging and stays.",
-    "skills": ["React", "Javascript", "CSS", "Firebase"],
-    "demo": "https://ayushsri2.github.io/Airbnb-Clone/",
-    "source": "https://github.com/ayushsri2/Airbnb-Clone"
+    "description": "A meticulously crafted showcase of my skills, achievements, and passion for web development. This portfolio embodies my commitment to creating immersive and engaging digital experiences. ",   
+    "skills": ["React", "Javascript", "CSS"],
+    "demo": " https://ayushsri2.github.io/Personal-Portfolio/",
+    "source": "https://github.com/ayushsri2/Personal-Portfolio"
   },
   {
-    "title": "IMDB Clone",
+    "title": "Film Review App",
     "imageSrc": "projects/project.png",
     "description": "An endeavor to recreate the renowned IMDB platform using modern web development technologies.",
-    "skills": ["React", "Javascript", "CSS", "Firebase"],
-    "demo": "https://ayushsri2.github.io/IMDB-Clone/",
-    "source": "https://github.com/ayushsri2/IMDB-Clone"
+    "skills": ["React", "Javascript", "CSS"],
+    "demo": " https://ayushsri2.github.io/Film-Review/",
+    "source": "https://github.com/ayushsri2/Film-Review"
   }
 ]
