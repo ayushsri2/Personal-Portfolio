@@ -16,11 +16,10 @@
     "source": "https://github.com/ayushsri2/Personal-Portfolio"
   },
   {
-    "title": "Film Review App",
+    "title": "Flipzonn E-Commerce App",
     "imageSrc": "projects/project.png",
-    "description": "An endeavor to recreate the renowned IMDB platform using modern web development technologies.",
+    "description": "Empowering a seamless shopping experience through a cutting-edge e-commerce platform built with modern web development technologies.",
     "skills": ["React", "Javascript", "CSS"],
-    "demo": " https://ayushsri2.github.io/Film-Review/",
-    "source": "https://github.com/ayushsri2/Film-Review"
+    "demo": "https://flipzonn.netlify.app/",
   }
 ]
