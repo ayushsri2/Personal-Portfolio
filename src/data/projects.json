@@ -20,6 +20,6 @@
     "imageSrc": "projects/project.png",
     "description": "Empowering a seamless shopping experience through a cutting-edge e-commerce platform built with modern web development technologies.",
     "skills": ["React", "Javascript", "CSS"],
-    "demo": "https://flipzonn.netlify.app/",
+    "demo": "https://flipzonn.netlify.app/"
   }
 ]
